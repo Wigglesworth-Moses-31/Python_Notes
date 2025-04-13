@@ -1,0 +1,75 @@
+### 🎥 **What’s This Video About?**
+This video walks you through the process of **installing two key tools** for learning Python:
+1. **Python Interpreter** – This is what actually runs your Python code.
+2. **Visual Studio Code (VS Code)** – This is the code editor (IDE) where you'll write and manage your Python programs.
+
+---
+
+### 🐍 **Step 1: Installing Python**
+
+#### ✅ What is Python?
+- Python is the programming language you’re going to use.
+- To write and run Python code on your computer, you need to install the **Python interpreter**.
+
+#### 🔽 How to Install It:
+1. Go to [python.org](https://python.org) and search for "Download Python".
+2. Click the link to download the latest version (e.g., Python 3.13.1).
+   > 🔁 *Don’t worry if the version number is different — just get the latest one.*
+
+3. Once it’s downloaded, **run the installer**.
+
+#### ⚙️ Important Installation Settings:
+- **Check both boxes** on the installer screen:
+  - One of them is usually “Add Python to PATH” — very important!
+  - The other might be to install Python for all users.
+- Click **Install** and give it permission if it asks for admin access.
+
+🎉 After a few moments, Python is installed!
+
+---
+
+### 💻 **Step 2: Verifying Python Installation**
+
+1. **Right-click** on the desktop or start menu and open **Terminal** (or **Command Prompt**).
+2. Type `python` and press **Enter**.
+3. If Python is installed correctly, it will show something like:
+   ```
+   Python 3.13.1
+   >>>
+   ```
+   ✅ This means everything is working perfectly!
+
+---
+
+### 🧑‍💻 **Step 3: Installing VS Code**
+
+#### 💡 What is VS Code?
+- VS Code is a **free code editor** developed by Microsoft.
+- It makes writing code easier and more organized.
+- Millions of developers use it!
+
+#### 🔽 How to Install It:
+1. Google **“Download VS Code”** and go to the official [VS Code website](https://code.visualstudio.com/).
+2. Download the version for your OS (Windows, Mac, or Linux).
+3. Run the installer and:
+   - **Accept the agreement**
+   - Click **Next** several times
+   - **Check the boxes** just like in the video (especially the ones that integrate VS Code into your system)
+4. Click **Install**, wait for it to finish, and then click **Finish**.
+
+🎉 VS Code is now installed and ready to go!
+
+---
+
+### 🔜 **What’s Next?**
+In the next video, you'll:
+- Customize VS Code a little
+- Write your **very first Python program**
+
+---
+
+### ✅ Summary
+| Tool           | Purpose                                 |
+|----------------|------------------------------------------|
+| **Python**     | Runs your Python code                   |
+| **VS Code**    | Where you write your Python code (IDE)  |
