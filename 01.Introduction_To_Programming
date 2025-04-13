@@ -1,0 +1,72 @@
+---
+
+### 🎉 Welcome to Python Programming
+
+The speaker, Harry, welcomes you to the course and thanks you for joining. He’ll be your guide throughout the course and has lots of experience teaching people how to code — millions of students, actually! He’s excited to share all the useful things he’s learned over the years.
+
+---
+
+### 🧠 What You’ll Learn in This Video
+
+In this part of the course, you're going to learn:
+
+- What a **programming language** is
+- Why learning **Python** specifically is important
+
+---
+
+### 💻 What is a Programming Language?
+
+Think of it like this:
+
+- We humans use languages like English, Hindi, or Spanish to talk to each other.
+- Computers don’t understand those — they have their **own languages**, called **programming languages**.
+
+So if you want a computer to do something for you, you need to “speak its language” — and that’s what programming is.
+
+---
+
+### 🧾 Rules of Programming — "Syntax"
+
+Every language has rules — for example, grammar in English or Spanish.
+
+Similarly, programming languages also have rules, and these are called **syntax**.
+
+- If you don’t follow these rules, the computer won’t understand your instructions.
+- When something goes wrong because of bad syntax, the computer gives an **error**.
+
+So, just like you wouldn’t write "am I fine you" in English, you shouldn’t write code that doesn’t follow the syntax of a programming language.
+
+---
+
+### 🧩 What is Programming?
+
+Programming is the act of:
+- Solving problems using code.
+- Turning your ideas into instructions that a computer can follow.
+
+For example, making a calculator, building a website, or even creating a game — that’s all done using programming!
+
+---
+
+### 🐍 Why Python?
+
+Python is the language you'll be learning in this course. Why Python?
+
+- **Simple and beginner-friendly:** Great for those who are just starting out.
+- **Readable:** The code looks almost like English.
+- **Popular:** Used by people of all skill levels — from newbies to expert developers.
+- **Powerful:** It’s used in exciting fields like **data science**, **AI**, and **machine learning**.
+- **Versatile:** You can build websites, automate tasks, analyze data, create games, and much more.
+
+So if Python is your first programming language — awesome choice! 🎉
+
+---
+
+### 📦 What’s Next?
+
+In the next lesson, you’ll install:
+- **Python**, the language itself.
+- An **IDE** (which is a special tool that helps you write and run code more easily).
+
+---
