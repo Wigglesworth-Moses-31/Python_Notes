@@ -1,0 +1,136 @@
+### 🧰 1. **Getting VS Code Ready for Python**
+VS Code is a powerful code editor (IDE), but it needs a little setup for Python development.
+
+#### ✅ What you do:
+- **Open VS Code**
+- You’ll see a clean interface. Don’t worry if it feels overwhelming — it gets easier.
+- **Create a folder** called `Python Course` (optional, just for organization).
+- Inside it, create another folder: `01_setup`.
+
+---
+
+### 🧱 2. **Understanding the VS Code Interface**
+Here are some key parts of VS Code you should know:
+
+- **Explorer (top icon on the left)**: Shows all files in your project.
+- **Search**: Lets you find text in your files.
+- **Source Control**: For version control (skip for now).
+- **Run and Debug**: For running and debugging code (we’ll use it later).
+- **Extensions (last icon)**: This is where the magic begins.
+
+---
+
+### 🧩 3. **Installing Python Extensions**
+Now let’s make VS Code Python-friendly.
+
+#### ✅ What you do:
+- Click on **Extensions icon**
+- Search for **Python**
+- Install the one from **Microsoft** (with the blue tick).
+  - It includes both the **Python extension** and **Python Debugger**.
+
+---
+
+### 📂 4. **Open a Folder in VS Code**
+VS Code works best when you open a folder as your "workspace."
+
+#### ✅ What you do:
+- Click **File → Open Folder**
+- Choose the `01_setup` folder inside your `Python Course`
+- It’ll ask if you trust the folder → Click **Yes**
+
+Now your folder is visible in the Explorer.
+
+---
+
+### ✨ 5. **Customize Appearance (Optional)**
+Want your editor to look cool? Change the **theme**!
+
+#### ✅ What you do:
+- Click **⚙️ (gear icon bottom-left) → Color Theme**
+- Try out built-in themes or install new ones like:
+  - **Jellyfish** (funky!)
+  - **GitHub Theme** (professional and clean)
+
+Use arrow keys to preview themes before selecting.
+
+---
+
+### 📝 6. **Create Your First Python File**
+Let’s get to the good stuff — coding!
+
+#### ✅ What you do:
+- In Explorer, click the **new file icon** ➕
+- Name it: `main.py`  
+- `.py` means it's a Python file
+
+---
+
+### 🧪 7. **Write and Save Some Code**
+Type this into `main.py`:
+
+```python
+print("Hello World")
+```
+
+#### ✅ What you do:
+- Press `Ctrl + S` to **save**
+- A small dot in the tab means unsaved; it disappears when saved.
+
+---
+
+### ▶️ 8. **Run Your Code**
+Look for a small **Run** button or open the terminal and type:
+
+```bash
+python main.py
+```
+
+You'll see:
+
+```
+Hello World
+```
+
+Boom! You just wrote your **first Python program** 🎉
+
+---
+
+### 🔄 9. **File Sync with VS Code**
+VS Code keeps your files in sync:
+- Any file created/deleted inside VS Code appears in your folder
+- Any file added from File Explorer shows up in VS Code too
+
+Try creating a `.txt` file like `hello.txt` and see it in both places.
+
+---
+
+### 🧙 10. **Some Cool Settings**
+Optional but useful:
+
+#### 🔍 Zoom in/out
+- `Ctrl + +` to zoom in
+- `Ctrl + -` to zoom out
+
+#### 🔁 Auto Save
+- Go to **File → Auto Save**
+- Now you don’t need to press `Ctrl + S` every time!
+
+#### 🧑‍🏫 Screencast Mode
+- Press `Ctrl + Shift + P` → Type “Screencast Mode”
+- This shows your keypresses on screen (great for tutorials)
+
+#### 🔎 Quick File Search
+- Use the top search bar to find files quickly by name
+
+---
+
+### 🎉 Summary: Your First Python Steps
+You have now:
+1. Set up VS Code
+2. Installed the Python extension
+3. Created a folder + Python file
+4. Written and run your first Python program!
+5. Customized your coding environment
+
+---
